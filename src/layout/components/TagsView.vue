@@ -25,17 +25,17 @@ ul {
 }
 
 li {
-  border: 1px solid #ddd;
+  border: 1px solid rgb(255, 255, 255);
   height: 25px;
   line-height: 25px;
-  font-size: 12px;
+  font-size: 16px;
   padding: 0 5px;
   margin: 0 5px;
 }
 
 .bgc {
-  background: rgba(0, 0, 0, 0.85);
-  border: 1px solid rgba(0, 0, 0, 0.85);
+  background: rgba(118, 111, 111, 0.85);
+  border: 1px solid rgba(23, 23, 23, 0.85);
   color: #fff;
 }
 </style>

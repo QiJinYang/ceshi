@@ -35,6 +35,7 @@
       </a-form-item>
       <a-form-item :wrapper-col="{ offset: 11, span: 13 }">
         <a-button html-type="submit" type="primary" @keydown.enter="onFinish">登录</a-button>
+        <el-button @click="resetForm(ruleFormRef)">Reset</el-button>
       </a-form-item>
     </a-form>
   </div>
